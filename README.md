@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gloomydarkness" alt="gloomydarkness" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_01gab_" target="blank"><img src="https://img.shields.io/twitter/follow/_01gab_?logo=twitter&style=for-the-badge" alt="_01gab_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/__01gab__" target="blank"><img src="https://img.shields.io/twitter/follow/_01gab_?logo=twitter&style=for-the-badge" alt="_01gab_" /></a> </p>
 
 - 🔭 I’m currently working on [v13](https://github.com/GloomyDarkness/V13)
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_01gab_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_01gab_" height="30" width="40" /></a>
+<a href="https://twitter.com/__01gab__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_01gab_" height="30" width="40" /></a>
 <a href="https://instagram.com/gabriel_bertolassi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabriel_bertolassi" height="30" width="40" /></a>
 </p>
 
