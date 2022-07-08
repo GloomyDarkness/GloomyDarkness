@@ -1,16 +1,22 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">🛠 A passionate backend developer from Brazil</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gloomydarkness&label=Profile%20views&color=00fffb&style=plastic" alt="gloomydarkness" /> </p>
-<p align="left"> <a href="https://twitter.com/__01gab__" target="blank"><img src="https://img.shields.io/twitter/follow/__01gab__?logo=twitter&style=for-the-badge" alt="__01gab__" /></a> 
-</p>
+
+<p align="left"> <a href="https://twitter.com/__01gab__" target="blank"><img src="https://img.shields.io/twitter/follow/__01gab__?logo=twitter&style=for-the-badge" alt="__01gab__" /></a> </p>
+
 - 🔭 I’m currently working on [v13](https://github.com/GloomyDarkness/V13)
+
 - 🌱 I’m currently learning **NodeJs & JavaScript**
+
 - 📫 How to reach me **gabrielbertolassi@proton.me**
-<h3 align="right">Connect with me:</h3>
-<p align="right">
-   <a href="https://twitter.com/__01gab__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__01gab__" height="30" width="40" /></a>
-   <a href="https://instagram.com/gabriel_bertolassi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabriel_bertolassi" height="30" width="40" /></a>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/__01gab__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__01gab__" height="30" width="40" /></a>
+<a href="https://instagram.com/gabriel_bertolassi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabriel_bertolassi" height="30" width="40" /></a>
 </p>
+
 <h2 align="center">
 👀
 <h2>
