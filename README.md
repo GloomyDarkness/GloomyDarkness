@@ -25,17 +25,18 @@
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
     </td>
   </tr>
-  
-<table>
+  <hr>
+  </hr> 
+<table align="center">
   <tbody><tr>
-    <td>
+     <td style="max-width:100%">
         <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/39e5fb98db953ad5966429ebc9a301f08cea2e667406fe7008e8a583ca1af822/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f3f757365726e616d653d35616e746f732673686f775f69636f6e733d74727565267469746c655f636f6c6f723d35333942463526746578745f636f6c6f723d3966396639662662675f636f6c6f723d303030303030303026686964655f626f726465723d747275652669636f6e5f636f6c6f723d35333942463526686964655f7469746c653d7472756526636f756e745f707269766174653d74727565"><img 
-        src="https://github-readme-stats.vercel.app/api/?username=GloomyDarkness&amp;show_icons=true&amp;title_color=539BF5&amp;text_color=9f9f9f&amp;bg_color=00000000&amp;hide_border=true&amp;icon_color=539BF5&amp;hide_title=true&amp;count_private=true" style="max-width: 100%;"></a>
+        src="https://github-readme-stats.vercel.app/api/?username=GloomyDarkness&amp;show_icons=true&amp;title_color=539BF5&amp;text_color=9f9f9f&amp;bg_color=00000000&amp;hide_border=true&amp;icon_color=539BF5&amp;hide_title=true&amp;count_private=true"</a>
     </td>
-      <td>
+      <td style="max-width:100%">
                   <a target="_blank" rel="noopener noreferrer" 
                      href="https://camo.githubusercontent.com/39e5fb98db953ad5966429ebc9a301f08cea2e667406fe7008e8a583ca1af822/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f3f757365726e616d653d35616e746f732673686f775f69636f6e733d74727565267469746c655f636f6c6f723d35333942463526746578745f636f6c6f723d3966396639662662675f636f6c6f723d303030303030303026686964655f626f726465723d747275652669636f6e5f636f6c6f723d35333942463526686964655f7469746c653d7472756526636f756e745f707269766174653d74727565"><img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=GloomyDarkness&amp;show_icons=true&amp;title_color=539BF5&amp;text_color=9f9f9f&amp;bg_color=00000000&amp;hide_border=true&amp;icon_color=00000000&amp;count_private=true" style="max-width: 100%;"></a>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=GloomyDarkness&amp;show_icons=true&amp;title_color=539BF5&amp;text_color=9f9f9f&amp;bg_color=00000000&amp;hide_border=true&amp;icon_color=00000000&amp;count_private=true" </a>
   </tr>
 </tbody></table>
 
