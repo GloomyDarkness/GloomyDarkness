@@ -13,20 +13,20 @@
 
 - 📫 How to reach me **gabrielbertolassi@proton.me**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="right">Connect with me:</h3>
+<p align="right">
 <a href="https://twitter.com/__01gab__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__01gab__" height="30" width="40" /></a>
 <a href="https://instagram.com/gabriel_bertolassi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabriel_bertolassi" height="30" width="40" /></a>
 </p>
 
-<tr>
-    <td>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-    </td>
-  </tr>
+  <h2 align="center">👀<h2>
+<p align="center" dir="auto">
+      <a href="https://camo.githubusercontent.com/4c18497990d096efe271d54b15ed5064177b96de63af1aa081e842c4032db7e4/68747470733a2f2f6c616e796172642e636e7261642e6465762f6170692f3835323635303535353235343736373637363f62673d31663166316626626f726465725261646975733d357078" rel="follow">
+              <img width="50%" alt="Discord" src="https://lanyard.cnrad.dev/api/785476244204421140?bg=1f1f1f&amp;borderRadius=5px" style="max-width: 100%;">
+            </a>
+</p>
   <hr>
-  </hr> 
+  </hr>
 <table align="center">
   <tbody><tr>
      <td style="max-width:100%">
