@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Kyara](https://github.com/GloomyDarkness/Kyara)
 
-- 🌱 I’m currently learning **NodeJs & JavaScript**
+- 🌱 I’m currently learning **[Html](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi26Ku3_u74AhU9s5UCHfXTBtIQFnoECAUQAQ&url=https%3A%2F%2Fdeveloper.mozilla.org%2Fpt-BR%2Fdocs%2FWeb%2FHTML&usg=AOvVaw1CPke7ATv9ZEAEjUphFrJQ) & [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
 
 - 📫 How to reach me **gabrielbertolassi@proton.me**
 
