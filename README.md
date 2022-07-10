@@ -31,14 +31,14 @@
    <tbody>
       <tr>
          <td style="max-width:100%">
-            <a target="_blank" rel="noopener noreferrer" href="https://discord.com/users/979727152364810280"><img 
+            <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/?username=GloomyDarkness&amp;show_icons=true&amp;title_color=539BF5&amp;text_color=9f9f9f&amp;bg_color=00000000&amp;hide_border=true&amp;icon_color=539BF5&amp;hide_title=true&amp;count_private=true"><img 
             src="https://github-readme-stats.vercel.app/api/?username=GloomyDarkness&amp;show_icons=true&amp;title_color=539BF5&amp;text_color=9f9f9f&amp;bg_color=00000000&amp;hide_border=true&amp;icon_color=539BF5&amp;hide_title=true&amp;count_private=true"</a>
          </td>
          <td style="max-width:100%">
             <a target="_blank" rel="noopener noreferrer" 
-               href="https://discord.com/users/979727152364810280"><img 
+               href="https://github-readme-stats.vercel.app/api/top-langs/?username=GloomyDarkness&amp;show_icons=true&amp;title_color=539BF5&amp;text_color=9f9f9f&amp;bg_color=00000000&amp;hide_border=true&amp;icon_color=00000000&amp;count_private=true"><img 
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=GloomyDarkness&amp;show_icons=true&amp;title_color=539BF5&amp;text_color=9f9f9f&amp;bg_color=00000000&amp;hide_border=true&amp;icon_color=00000000&amp;count_private=true" </a>
       </tr>
    </tbody>
 </table>
-<p dir="auto"><a href="https://discord.com/users/979727152364810280"><img alt="GloomyDarkness' github activity graph" src="https://activity-graph.herokuapp.com/graph?username=GloomyDarkness&amp;custom_title=Contribution%20Graph&amp;bg_color=00000000&amp;area_color=539BF5&amp;color=9f9f9f&amp;line=539BF5&amp;point=539BF5&amp;area=true&amp;hide_border=true" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://activity-graph.herokuapp.com/graph?username=GloomyDarkness&amp;custom_title=Contribution%20Graph&amp;bg_color=00000000&amp;area_color=539BF5&amp;color=9f9f9f&amp;line=539BF5&amp;point=539BF5&amp;area=true&amp;hide_border=true"><img alt="GloomyDarkness' github activity graph" src="https://activity-graph.herokuapp.com/graph?username=GloomyDarkness&amp;custom_title=Contribution%20Graph&amp;bg_color=00000000&amp;area_color=539BF5&amp;color=9f9f9f&amp;line=539BF5&amp;point=539BF5&amp;area=true&amp;hide_border=true" style="max-width: 100%;"></a></p>
