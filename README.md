@@ -31,13 +31,13 @@
    <tbody>
       <tr>
          <td style="max-width:100%">
-            <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/?username=GloomyDarkness&amp;show_icons=true&amp;title_color=539BF5&amp;text_color=9f9f9f&amp;bg_color=00000000&amp;hide_border=true&amp;icon_color=539BF5&amp;hide_title=true&amp;count_private=false"><img 
-            src="https://github-readme-stats.vercel.app/api/?username=GloomyDarkness&amp;show_icons=true&amp;title_color=539BF5&amp;text_color=9f9f9f&amp;bg_color=00000000&amp;hide_border=true&amp;icon_color=539BF5&amp;hide_title=true&amp;count_private=false"</a>
+            <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/?username=GloomyDarkness&amp;show_icons=true&amp;title_color=539BF5&amp;text_color=9f9f9f&amp;bg_color=00000000&amp;hide_border=true&amp;icon_color=539BF5&amp;hide_title=true&amp;count_private=true"><img 
+            src="https://github-readme-stats.vercel.app/api/?username=GloomyDarkness&amp;show_icons=true&amp;title_color=539BF5&amp;text_color=9f9f9f&amp;bg_color=00000000&amp;hide_border=true&amp;icon_color=539BF5&amp;hide_title=true&amp;count_private=true"</a>
          </td>
          <td style="max-width:100%">
             <a target="_blank" rel="noopener noreferrer" 
-               href="https://github-readme-stats.vercel.app/api/top-langs/?username=GloomyDarkness&amp;show_icons=true&amp;title_color=539BF5&amp;text_color=9f9f9f&amp;bg_color=00000000&amp;hide_border=true&amp;icon_color=00000000&amp;count_private=false"><img 
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=GloomyDarkness&amp;show_icons=true&amp;title_color=539BF5&amp;text_color=9f9f9f&amp;bg_color=00000000&amp;hide_border=true&amp;icon_color=00000000&amp;count_private=false" </a>
+               href="https://github-readme-stats.vercel.app/api/top-langs/?username=GloomyDarkness&amp;show_icons=true&amp;title_color=539BF5&amp;text_color=9f9f9f&amp;bg_color=00000000&amp;hide_border=true&amp;icon_color=00000000&amp;count_private=true"><img 
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=GloomyDarkness&amp;show_icons=true&amp;title_color=539BF5&amp;text_color=9f9f9f&amp;bg_color=00000000&amp;hide_border=true&amp;icon_color=00000000&amp;count_private=true" </a>
       </tr>
    </tbody>
 </table>
