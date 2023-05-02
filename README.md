@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gloomydarkness&label=Profile%20views&color=00fffb&style=plastic" alt="gloomydarkness" /> </p>
 
-<p align="left"> <a href="https://twitter.com/__01gab__" target="blank"><img src="https://img.shields.io/twitter/follow/__01gab__?logo=twitter&style=for-the-badge" alt="__01gab__" /></a> </p>
-
 - 🔭 I’m currently working on **[Kyara](https://github.com/GloomyDarkness/Kyara)**
 
 - 🌱 I’m currently learning **[Lua](https://www.lua.org/)**
