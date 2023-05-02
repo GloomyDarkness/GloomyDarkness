@@ -41,4 +41,3 @@
       </tr>
    </tbody>
 </table>
-<p dir="auto"><a href="https://activity-graph.herokuapp.com/graph?username=GloomyDarkness&amp;custom_title=Contribution%20Graph&amp;bg_color=00000000&amp;area_color=539BF5&amp;color=9f9f9f&amp;line=539BF5&amp;point=539BF5&amp;area=true&amp;hide_border=true"><img alt="GloomyDarkness' github activity graph" src="https://activity-graph.herokuapp.com/graph?username=GloomyDarkness&amp;custom_title=Contribution%20Graph&amp;bg_color=00000000&amp;area_color=539BF5&amp;color=9f9f9f&amp;line=539BF5&amp;point=539BF5&amp;area=true&amp;hide_border=true" style="max-width: 100%;"></a></p>
