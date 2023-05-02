@@ -22,7 +22,7 @@
 <h2>
 <p align="center" dir="auto">
    <a href="https://discord.com/users/1078887083692793866" rel="follow">
-   <img width="50%" alt="Discord" src="https://lanyard.cnrad.dev/api/979727152364810280?bg=1f1f1f&amp;borderRadius=5px" style="max-width: 100%;">
+   <img width="50%" alt="Discord" src="https://lanyard.cnrad.dev/api/1078887083692793866?bg=1f1f1f&amp;borderRadius=5px" style="max-width: 100%;">
    </a>
 </p>
 <hr>
