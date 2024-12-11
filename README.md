@@ -9,7 +9,7 @@
 
 - I have already learned **[Java](https://www.oracle.com/java/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Python](https://www.python.org/), [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)**, and **[CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)**.
 
-- 📫 How to reach me **gabrielbertolassi5@gmail.com**
+- 📫 How to reach me **gabrielbertolassi2@icloud.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
