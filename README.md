@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gloomydarkness&label=Profile%20views&color=00fffb&style=plastic" alt="gloomydarkness" /> </p>
 
-- 🔭 I’m currently working on **[Dulingo XP](https://github.com/GloomyDarkness/duolingo-Xp)**
+- 🔭 I’m currently working on **[Ruby Verse]([https://github.com/GloomyDarkness/duolingo-Xp](https://rubyverse.store/))**
 
 - 🌱 I’m currently learning **[Lua](https://www.lua.org/)**
 
