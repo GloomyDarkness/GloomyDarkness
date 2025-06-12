@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabriel</h1>
+<h1 align="center">Hi 👋, I'm Nyx</h1>
 <h3 align="center">🛠 A passionate backend developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gloomydarkness&label=Profile%20views&color=00fffb&style=plastic" alt="gloomydarkness" /> </p>
@@ -21,8 +21,8 @@
 👀
 <h2>
 <p align="center" dir="auto">
-   <a href="https://discord.com/users/1078887083692793866" rel="follow">
-   <img width="50%" alt="Discord" src="https://lanyard.cnrad.dev/api/1078887083692793866?bg=1f1f1f&amp;borderRadius=5px" style="max-width: 100%;">
+   <a href="https://discord.com/users/348571911933919232" rel="follow">
+   <img width="50%" alt="Discord" src="https://lanyard.cnrad.dev/api/348571911933919232?bg=1f1f1f&amp;borderRadius=5px" style="max-width: 100%;">
    </a>
 </p>
 <hr>
