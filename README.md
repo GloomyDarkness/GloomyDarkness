@@ -11,8 +11,8 @@
 ### 🚀 **Entrepreneur & Tech Innovator** | 💻 **Backend Developer** | 🇧🇷 **Based in Brazil**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gloomydarkness&label=Profile%20Views&color=00fffb&style=for-the-badge&logo=github" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/GloomyDarkness?label=Followers&style=for-the-badge&color=00fffb&logo=github" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=nyxxbit&label=Profile%20Views&color=00fffb&style=for-the-badge&logo=github" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/nyxxbit?label=Followers&style=for-the-badge&color=00fffb&logo=github" alt="Followers" />
 </p>
 
 </div>
@@ -78,15 +78,15 @@ const nyx = {
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=GloomyDarkness&show_icons=true&theme=tokyonight&title_color=00fffb&text_color=9f9f9f&bg_color=0d1117&hide_border=true&icon_color=00fffb&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=nyxxbit&show_icons=true&theme=tokyonight&title_color=00fffb&text_color=9f9f9f&bg_color=0d1117&hide_border=true&icon_color=00fffb&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GloomyDarkness&theme=tokyonight&title_color=00fffb&text_color=9f9f9f&bg_color=0d1117&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxxbit&theme=tokyonight&title_color=00fffb&text_color=9f9f9f&bg_color=0d1117&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GloomyDarkness&theme=tokyonight&background=0d1117&border=00fffb&stroke=00fffb&ring=00fffb&fire=ff6b6b&currStreakLabel=00fffb" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nyxxbit&theme=tokyonight&background=0d1117&border=00fffb&stroke=00fffb&ring=00fffb&fire=ff6b6b&currStreakLabel=00fffb" alt="GitHub Streak" />
 
 </div>
 
